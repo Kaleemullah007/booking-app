@@ -46,7 +46,7 @@ func main() {
 			}
 
 		} else {
-
+			// validation messages
 			if !isValid {
 				fmt.Println("Invalid name of User")
 			}
